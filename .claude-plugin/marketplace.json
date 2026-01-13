@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fizzy-marketplace",
+  "description": "Fizzy.do integration for Claude Code",
+  "owner": {
+    "name": "Onur Keskin"
+  },
+  "plugins": [
+    {
+      "name": "fizzy",
+      "description": "Sync Claude Code todos to Fizzy.do cards automatically",
+      "version": "1.0.0",
+      "author": {
+        "name": "Onur Keskin"
+      },
+      "source": "./plugins/fizzy",
+      "homepage": "https://github.com/keskinonur/claude-plugin-fizzy"
+    }
+  ]
+}

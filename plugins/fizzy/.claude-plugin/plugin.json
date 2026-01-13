@@ -1,0 +1,7 @@
+{
+  "name": "fizzy",
+  "description": "Sync Claude Code todos to Fizzy.do cards. Automatically creates cards and steps from your todo list.",
+  "author": {
+    "name": "Onur Keskin"
+  }
+}

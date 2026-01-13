@@ -1,0 +1,6 @@
+{
+  "fizzy": {
+    "command": "node",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/servers/fizzy-mcp/dist/index.js"]
+  }
+}
